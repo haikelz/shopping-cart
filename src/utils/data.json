@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Buku Muslim Produktif",
+    "price": 10.99,
+    "imgUrl": "/img/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Macbook Pro",
+    "price": 1199,
+    "imgUrl": "/img/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pisang",
+    "price": 1.05,
+    "imgUrl": "/img/banana.jpg"
+  },
+  {
+    "id": 4,
+    "name": "VW Kodok",
+    "price": 14000,
+    "imgUrl": "/img/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Jasa Pembuatan Website",
+    "price": 10,
+    "imgUrl": "/img/create-website.jpg"
+  }
+]
